@@ -1,5 +1,7 @@
 package org.example
 
+import org.example.medium.Solution
+
 fun main() {
-    println("Hello World!")
+    Solution().reverseParentheses("(ed(et(oc))el)")
 }
